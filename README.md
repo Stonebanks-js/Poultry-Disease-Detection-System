@@ -1,5 +1,5 @@
 
-# 🐔Avian Ailment Analyzer
+# 🐔Poultry Disease Detection System
 
 Welcome to PoultryVision™, where we’re turning chickens into data points, one cluck at a time! If you're here, you're either worried about your chickens' well-being or you just love AI (Artificial Ingredients? Just kidding!).
 
